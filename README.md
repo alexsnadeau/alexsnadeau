@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in learning how to utilize coding in the chemical industry
-- I’m currently learning python and am on pandas and matplotlib 
+- I’m currently SQL and am learning advanced features such as window functions and subqueries.
+- Month 7 learning how to code in python, pandas, SQL, and ML to get a data role in the chemical industry.
 
 <!---
 alexsnadeau/alexsnadeau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
